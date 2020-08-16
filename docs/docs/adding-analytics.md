@@ -52,7 +52,7 @@ module.exports = {
 
 > Note: Read more about [gatsby-config.js](/docs/gatsby-config/)
 
-Full documentation for the plugin can be found [here](/packages/gatsby-plugin-google-analytics/).
+Full documentation for the plugin can be found [here](/plugins/gatsby-plugin-google-analytics/).
 
 There are a number of extra configuration options--both with the Gatsby plugin and also in your Google Analytics account--so you can tailor things to meet your website's needs.
 
@@ -60,15 +60,15 @@ Once this is configured you can deploy your site to test! If you navigate to the
 
 ## Other Gatsby analytics plugins
 
-- [Google Tag Manager](/packages/gatsby-plugin-google-tagmanager/)
-- [Google Analytics gtag.js](/packages/gatsby-plugin-gtag/)
-- [Segment](/packages/gatsby-plugin-segment-js)
-- [Amplitude Analytics](/packages/gatsby-plugin-amplitude-analytics)
-- [Fathom](/packages/gatsby-plugin-fathom/)
-- [Baidu](/packages/gatsby-plugin-baidu-analytics/)
-- [Matomo (formerly Piwik)](/packages/gatsby-plugin-matomo/)
-- [Simple Analytics](/packages/gatsby-plugin-simple-analytics)
-- [Parse.ly Analytics](/packages/gatsby-plugin-parsely-analytics/)
-- [GoatCounter](/packages/gatsby-plugin-goatcounter/)
-- [PostHog](/packages/gatsby-plugin-posthog-analytics/)
-- [Plausible](/packages/gatsby-plugin-plausible/)
+- [Google Tag Manager](/plugins/gatsby-plugin-google-tagmanager/)
+- [Google Analytics gtag.js](/plugins/gatsby-plugin-gtag/)
+- [Segment](/plugins/gatsby-plugin-segment-js)
+- [Amplitude Analytics](/plugins/gatsby-plugin-amplitude-analytics)
+- [Fathom](/plugins/gatsby-plugin-fathom/)
+- [Baidu](/plugins/gatsby-plugin-baidu-analytics/)
+- [Matomo (formerly Piwik)](/plugins/gatsby-plugin-matomo/)
+- [Simple Analytics](/plugins/gatsby-plugin-simple-analytics)
+- [Parse.ly Analytics](/plugins/gatsby-plugin-parsely-analytics/)
+- [GoatCounter](/plugins/gatsby-plugin-goatcounter/)
+- [PostHog](/plugins/gatsby-plugin-posthog-analytics/)
+- [Plausible](/plugins/gatsby-plugin-plausible/)
